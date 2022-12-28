@@ -1,0 +1,21 @@
+.about_container p {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: left;
+  
+}
+
+.fancytext {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  color: #8f869b;
+}
+
+.gridrow {
+  gap: 30px;
+}

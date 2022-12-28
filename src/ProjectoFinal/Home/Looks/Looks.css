@@ -1,0 +1,20 @@
+.looks_container {
+  padding-top: 100px;
+}
+.gridrow {
+  display: flex;
+}
+
+.look-card p {
+  position: relative;
+  bottom: 60px;
+  background-color: rgb(255, 255, 255);
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: uppercase;
+  text-underline-position:under;
+  color:black;
+
+}

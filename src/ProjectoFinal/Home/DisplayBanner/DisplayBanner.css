@@ -1,0 +1,38 @@
+.display_banner {
+  display: flex;
+  flex-wrap: wrap;
+  background-image: url("./imgs/foto1.png");
+  width: 100vw;
+  height: 400px;
+  overflow: hidden;
+}
+
+.display_info {
+  margin: 30px;
+  align-items: center;
+}
+
+.display_info img {
+  width: 100%;
+}
+
+.container h1 {
+    padding-left: 70%;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 49px;
+  color: aliceblue;
+}
+
+.container button{
+    background-color:transparent;
+    padding-left: 70%;
+    box-sizing: border-box;
+    border-width: 2px;
+    border-style:none;
+    color: aliceblue;
+    text-decoration: underline;
+   
+}
+

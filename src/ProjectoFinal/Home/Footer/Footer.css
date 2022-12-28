@@ -1,0 +1,52 @@
+.footer_container {
+  width: 100vw;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(57, 58, 60);
+  bottom: 0px;
+}
+
+.footer_group {
+  width: 200px;
+  margin-top: 50px;
+}
+
+.footer_container h3 {
+  width: 200px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  color: aliceblue;
+}
+
+.footer_container p {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  color: aliceblue;
+}
+
+.footer_btn {
+  display: flex;
+  gap: 10px;
+}
+
+.footer_btn button {
+  width: 300px;
+  border-style: 3px;
+  border-color: aliceblue;
+  background-color: rgb(57, 58, 60);
+  color: aliceblue;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+}
+
+.footer_newsletter {
+  width: 400px;
+  margin-top: 50px;
+}
